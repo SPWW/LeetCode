@@ -1,5 +1,6 @@
 class Solution {
     public:
+
     int addDigits(int num) {
                         
     int temp = num;
@@ -32,4 +33,5 @@ class Solution {
     return temp;
    
     }
+
 };
