@@ -30,7 +30,7 @@ public:
                         wl[k]=height[i];
                     }
                 }
-                
+                i = r;
             }
             
             int w = 0;
